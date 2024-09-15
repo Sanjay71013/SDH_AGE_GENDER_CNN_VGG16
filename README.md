@@ -13,20 +13,9 @@ This repository contains the code for the Smart Digital Hackathon (2022) finalis
 - Real-time age and gender detection using webcam input.
 - Built with a VGG16-based CNN model for high accuracy.
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Sanjay71013/SDH_AGE_GENDER_CNN_VGG16.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
-1. Launch the web application:
+1. Go to VGG16 folder and Launch the web application:
    ```bash
    python app.py
    ```
